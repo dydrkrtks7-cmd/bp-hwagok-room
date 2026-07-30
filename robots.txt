@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://deungchon-room-note.best-samseong-hotplace.xyz/sitemap.xml
+Sitemap: https://deungchon-room-note.best-samseong-hotplace.xyz/sitemap-pages.xml
